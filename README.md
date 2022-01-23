@@ -12,6 +12,8 @@ Android App Portfolio
 # [Project 3:](https://play.google.com/store/apps/details?id=com.s.meditation.xinjiayilu&hl=en_GB&gl=US)
 * New Form
 
+![](https://github.com/osmond-lui/Osmond_Portfolio/blob/main/images/NewForm.PNG)
+
 # [Project 2:](https://play.google.com/store/apps/details?id=com.s.meditation.laojiayilu&hl=en_GB&gl=US)
 * Old Form
 
