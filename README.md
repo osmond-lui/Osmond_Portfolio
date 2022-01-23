@@ -21,3 +21,5 @@ Android App Portfolio
 
 # [Project 1:](https://play.google.com/store/apps/details?id=com.meditation107.android.taichistandingmeditationcompass&hl=en_GB&gl=US)
 * Clock
+
+![](https://github.com/osmond-lui/Osmond_Portfolio/blob/main/images/Compass.PNG)
