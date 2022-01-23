@@ -7,6 +7,8 @@ Android App Portfolio
 # [Project 4:](https://play.google.com/store/apps/details?id=com.s.meditation.qi&hl=en_GB&gl=US) 
 * Meditation Tool
 
+![](https://github.com/osmond-lui/Osmond_Portfolio/blob/main/images/4in1Tool.PNG)
+
 # [Project 3:](https://play.google.com/store/apps/details?id=com.s.meditation.xinjiayilu&hl=en_GB&gl=US)
 * New Form
 
