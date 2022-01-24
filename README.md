@@ -1,5 +1,5 @@
 # Osmond_Portfolio
-STEM Projects Portfolio
+STEM Project Portfolio
 
 # Project 7: STEM Project - DIY Automatic Toilet Flusher Retrofit Kit To keep your hands clean during COVID time
 Completion date: 24 Mar 2020
@@ -43,6 +43,8 @@ Overview: Demonstrate a wearable sensor and data logging android app that measur
 </p>
 
 # [Project 4: Android Coding Project - Standing Meditation Tool](https://play.google.com/store/apps/details?id=com.s.meditation.qi&hl=en_GB&gl=US) 
+Completion Date: 11 May 2021
+
 Overview: This app can change your phone into a powerful standing meditation tool for your daily standing meditation/qigong practices. I am a Tai Chi standing meditation practitioner. I have been learning and practicing Tai Chi and standing meditation for almost 2 years. It helps to control my blood pressure and age well. I hope this tool can help you too!
 
 This app has four functions. 
