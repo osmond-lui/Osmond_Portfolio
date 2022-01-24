@@ -38,24 +38,53 @@ Completion date: 10 Nov 2021
 
 Overview: Demonstrate a wearable sensor and data logging android app that measures your punch speed. You would not know how fast you can release your explosive power without using an objective measurement tool. Having the right tool, you will know how your performance changes. This project involves power electroncis, mechanical housing desgin, 3D printing prototyping, sensor board sourcing, android app UI desgin and android programming. The android progam involves bluetooth communication, graphic annimation, real time tracking/logging and file saving on google drive. 
 
-
-* Fajin Sensor
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cNsWo5Xyzms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-# [Project 4:](https://play.google.com/store/apps/details?id=com.s.meditation.qi&hl=en_GB&gl=US) 
-* Meditation Tool
+# [Project 4: Android Coding Project - Standing Meditation Tool](https://play.google.com/store/apps/details?id=com.s.meditation.qi&hl=en_GB&gl=US) 
+Overview: This app can change your phone into a powerful standing meditation tool for your daily standing meditation/qigong practices. I am a Tai Chi standing meditation practitioner. I have been learning and practicing Tai Chi and standing meditation for almost 2 years. It helps to control my blood pressure and age well. I hope this tool can help you too!
+
+This app has four functions. 
+* The first one is a compass. This compass can point out where you need to facing with based on Zi Wu Liu Zhu theory. In the old days, qigong practitioner will change the facing direction according to the time of the day. The reason behind is to match the earth magnetic field with inner body magnet for better Qi/energy cultivation. For example, practitioner will face south at noon time; face north at midnight; face east at 3:00 pm and face west at 9:00 pm. So this app will tell you which direction is better for energy cultivation.
+* The second function is a Chinese body clock. It tells the energy focus organ around the clock. It is an essential tool for Qi cultivation.
+* The third function is meridian body clock. It shows the meridian flow during the time of the day. Understanding the blood flow of meridian helps to better feel the Qi flowing through your body.
+* The fourth function is a singing bowl timer. It helps to overcome meditation struggles. It sets the meditation target and makes you clam.
 
 ![](/images/4in1Tool.PNG)
 
-# [Project 3:](https://play.google.com/store/apps/details?id=com.s.meditation.xinjiayilu&hl=en_GB&gl=US)
-* New Form
+# [Project 3: Taijiquan Xinjia Yi Lu Audio Practice Guide ](https://play.google.com/store/apps/details?id=com.s.meditation.xinjiayilu&hl=en_GB&gl=US)
+Completion date: 16 Dec 2018 
+
+Overview: This app is designed to help Tai Chi beginners (Chen-style Xinjia Yi Lu), intermediates and teachers to practice Xinjia Yi Lu.
+The app will speak out laud the Xinjia Yi Lu 83 form step by step in responding to play button click or low cost camera remote shutter.
+The app can speak three languages. They are English, Cantonese and Mandarin. it helps if you have difficulties to memorize all 83 postures at the beginning stage.
+The app works best with the Google text-to-speech app. Pls also install the Cantonese and/or Chinese language patch if you want the app to speak Cantonese and/or Mandarin.
+System Requirements
+1. Google text-to-speech engine
+2. Google text-to-speech’s Cantonese language patch
+3. Google text-to speech’s Mandarin language patch
+Optional hardware requirements
+1. Bluetooth headset or Bluetooth speaker x 1
+2. Bluetooth camera remote shutter x 1 ( either 10 m or 20 m working range is ok. I prefer the long range one for outdoor use but the short range one can be as cheap as HKD15.)
 
 ![](/images/NewForm.PNG)
 
-# [Project 2:](https://play.google.com/store/apps/details?id=com.s.meditation.laojiayilu&hl=en_GB&gl=US)
-* Old Form
+# [Project 2: Tai Chi Audio Practice Guide: Chen-style Laojia Yi Lu 75 Forms](https://play.google.com/store/apps/details?id=com.s.meditation.laojiayilu&hl=en_GB&gl=US)
+Completion date: 28 Apr 2022
+
+Overview: The primary aim of developing this app is to help you to memorize the Laojia Yi Lu 75 Forms. The app will speak out loud the 75 postures one by one by clicking the speak button or remote shutter. Using this app you can practice the Tai Chi Form with ease at your own peace and without worrying about forgetting or missing any form. To learn Tai Chi, you need to find a good teacher, attend a Tai Chi class, learn and share with fellow students.
+This app is designed to help Tai Chi beginners (Chen-style Laojia Yi Lu), intermediates and teachers to practice Laojia Yi Lu.
+The app will speak out laud the Laojia Yi Lu 75 form step by step in responding to play button click or low cost camera remote shutter.
+The app can speak three languages. They are English, Cantonese and Mandarin.
+The app works best with the Google text-to-speech app. Pls also install the Cantonese and/or Chinese language patch if you want the app to speak Cantonese and/or Mandarin.
+System Requirements
+1. Google text-to-speech engine
+2. Google text-to-speech’s Cantonese language patch
+3. Google text-to speech’s Mandarin language patch
+Optional hardware requirements
+1. Bluetooth headset or Bluetooth speaker x 1
+2. Bluetooth camera remote shutter x 1 ( either 10 m or 20 m working range is ok. I prefer the long range one for outdoor use but the short range one can be as cheap as HKD15.)
 
 ![](/images/oldForm.PNG)
 
