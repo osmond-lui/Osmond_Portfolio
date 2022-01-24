@@ -60,13 +60,6 @@ Overview: This app is designed to help Tai Chi beginners (Chen-style Xinjia Yi L
 The app will speak out laud the Xinjia Yi Lu 83 form step by step in responding to play button click or low cost camera remote shutter.
 The app can speak three languages. They are English, Cantonese and Mandarin. it helps if you have difficulties to memorize all 83 postures at the beginning stage.
 The app works best with the Google text-to-speech app. Pls also install the Cantonese and/or Chinese language patch if you want the app to speak Cantonese and/or Mandarin.
-System Requirements
-1. Google text-to-speech engine
-2. Google text-to-speech’s Cantonese language patch
-3. Google text-to speech’s Mandarin language patch
-Optional hardware requirements
-1. Bluetooth headset or Bluetooth speaker x 1
-2. Bluetooth camera remote shutter x 1 ( either 10 m or 20 m working range is ok. I prefer the long range one for outdoor use but the short range one can be as cheap as HKD15.)
 
 ![](/images/NewForm.PNG)
 
@@ -78,17 +71,12 @@ This app is designed to help Tai Chi beginners (Chen-style Laojia Yi Lu), interm
 The app will speak out laud the Laojia Yi Lu 75 form step by step in responding to play button click or low cost camera remote shutter.
 The app can speak three languages. They are English, Cantonese and Mandarin.
 The app works best with the Google text-to-speech app. Pls also install the Cantonese and/or Chinese language patch if you want the app to speak Cantonese and/or Mandarin.
-System Requirements
-1. Google text-to-speech engine
-2. Google text-to-speech’s Cantonese language patch
-3. Google text-to speech’s Mandarin language patch
-Optional hardware requirements
-1. Bluetooth headset or Bluetooth speaker x 1
-2. Bluetooth camera remote shutter x 1 ( either 10 m or 20 m working range is ok. I prefer the long range one for outdoor use but the short range one can be as cheap as HKD15.)
 
 ![](/images/oldForm.PNG)
 
-# [Project 1:](https://play.google.com/store/apps/details?id=com.meditation107.android.taichistandingmeditationcompass&hl=en_GB&gl=US)
-* Clock
+# [Project 1: Tai Chi Meditation Compass Clock](https://play.google.com/store/apps/details?id=com.meditation107.android.taichistandingmeditationcompass&hl=en_GB&gl=US)
+Completion Date: 14 Feb 2018
+
+Overview: This app uses the phone's system clock and magnetometer to point out the preferred meditation direction for your daily Tai Chi meditation practice.
 
 ![](/images/Compass.PNG)
