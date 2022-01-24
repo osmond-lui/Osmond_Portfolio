@@ -4,7 +4,7 @@ Android App Portfolio
 # Project 7: STEM Project - DIY Automatic Toilet Flusher Retrofit Kit To keep your hands clean during COVID time
 Completion date: 24 Mar 2020
 
-Oerview: To use a low voltage open loop control DC motor to flush the toilet. No coding is required. DIY kit is attached by two suckion cups therfore no drilling/ modification of toilet top cover ie required.
+Oerview: To use a low voltage open loop control DC motor to flush the toilet. No coding is required. DIY kit is attached on the toilet cover by two suckion cups therfore no drilling/ modification of toilet top cover is required.
 
 Part List:
 1. 5V IR Sensor x 1
@@ -19,8 +19,16 @@ Part List:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bgM3SVcXeLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-# Project 6: 
-* Remote Timer
+# Project 6: Arduino Coding Project - 20 Amp. Timer Switch 
+Comletion date: 10 Nov 2021
+
+OVerview: A practical use of STM 32 F030C8T6 Arduino board to solve real life problem at home - retrofit timer control on 20 Amp. air conditioner switch. It involves Arduino coding, electronics, mechanical interface desgin etc.
+
+Major Part List:
+1. STM 32 F030C8T6 Arduino Timer Switch
+2. IC2262/2272 4 channel wireless remote control module
+3. DC servo motor
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bN__15T3cbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
