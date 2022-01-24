@@ -1,22 +1,13 @@
 # Osmond_Portfolio
 STEM Project Portfolio
 
-# Project 7: STEM Project - DIY Automatic Toilet Flusher Retrofit Kit To keep your hands clean during COVID time
-Completion date: 24 Mar 2020
+# Project 7: Android Coding Project - Wearable G sensor for punch speed tracking
+Completion date: 10 Nov 2021
 
-Oerview: To use a low voltage open loop control DC motor to flush the toilet. No coding is required. DIY kit is attached on the toilet cover by two suckion cups therfore no drilling/ modification of toilet top cover is required.
+Overview: Demonstrate a wearable sensor and data logging android app that measures your punch speed. You would not know how fast you can release your explosive power without using an objective measurement tool. Having the right tool, you will know how your performance changes. This project involves power electroncis, mechanical housing desgin, 3D printing prototyping, sensor board sourcing, android app UI desgin and android programming. The android progam involves bluetooth communication, graphic annimation, real time tracking/logging and file saving on google drive. 
 
-Part List:
-1. 5V IR Sensor x 1
-2. 5V DC Servo Motor x 1
-3. 12V Relay Control Board x 1
-4. 5V Adapter x 1
-5. USB cable x 1
-6. Suction Hook x 2
-7. L- plate x 2
-8. Linear Actuator
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bgM3SVcXeLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cNsWo5Xyzms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 # Project 6: Arduino Coding Project - 20 Amp. Timer Switch 
@@ -33,16 +24,7 @@ Major Part List:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bN__15T3cbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-# Project 5: Android Coding Project - Wearable G sensor for punch speed tracking
-Completion date: 10 Nov 2021
-
-Overview: Demonstrate a wearable sensor and data logging android app that measures your punch speed. You would not know how fast you can release your explosive power without using an objective measurement tool. Having the right tool, you will know how your performance changes. This project involves power electroncis, mechanical housing desgin, 3D printing prototyping, sensor board sourcing, android app UI desgin and android programming. The android progam involves bluetooth communication, graphic annimation, real time tracking/logging and file saving on google drive. 
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cNsWo5Xyzms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-# [Project 4: Android Coding Project - Standing Meditation Tool](https://play.google.com/store/apps/details?id=com.s.meditation.qi&hl=en_GB&gl=US) 
+# [Project 5: Android Coding Project - Standing Meditation Tool](https://play.google.com/store/apps/details?id=com.s.meditation.qi&hl=en_GB&gl=US) 
 Completion Date: 11 May 2021
 
 Overview: This app can change your phone into a powerful standing meditation tool for your daily standing meditation/qigong practices. I am a Tai Chi standing meditation practitioner. I have been learning and practicing Tai Chi and standing meditation for almost 2 years. It helps to control my blood pressure and age well. I hope this tool can help you too!
@@ -54,6 +36,24 @@ This app has four functions.
 * The fourth function is a singing bowl timer. It helps to overcome meditation struggles. It sets the meditation target and makes you clam.
 
 ![](/images/4in1Tool.PNG)
+
+# Project 4: STEM Project - DIY Automatic Toilet Flusher Retrofit Kit To keep your hands clean during COVID time
+Completion date: 24 Mar 2020
+
+Oerview: To use a low voltage open loop control DC motor to flush the toilet. No coding is required. DIY kit is attached on the toilet cover by two suckion cups therfore no drilling/ modification of toilet top cover is required.
+
+Part List:
+1. 5V IR Sensor x 1
+2. 5V DC Servo Motor x 1
+3. 12V Relay Control Board x 1
+4. 5V Adapter x 1
+5. USB cable x 1
+6. Suction Hook x 2
+7. L- plate x 2
+8. Linear Actuator
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bgM3SVcXeLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 # [Project 3: Android Coding Project - Taijiquan Xinjia Yi Lu Audio Practice Guide ](https://play.google.com/store/apps/details?id=com.s.meditation.xinjiayilu&hl=en_GB&gl=US)
 Completion date: 16 Dec 2018 
