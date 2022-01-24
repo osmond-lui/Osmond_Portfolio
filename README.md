@@ -20,7 +20,7 @@ Part List:
 </p>
 
 # Project 6: Arduino Coding Project - 20 Amp. Timer Switch 
-Comletion date: 10 Nov 2021
+Completion date: 10 Aug 2021
 
 OVerview: A practical use of STM 32 F030C8T6 Arduino board to solve real life problem at home - retrofit timer control on 20 Amp. air conditioner switch. It involves Arduino coding, electronics, mechanical interface desgin etc.
 
@@ -33,7 +33,12 @@ Major Part List:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bN__15T3cbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-# Project 5: 
+# Project 5: Android Coding Project - Wearable G sensor for punch speed tracking
+Completion date: 10 Nov 2021
+
+Overview: Demonstrate a wearable sensor and data logging android app that measures your punch speed. You would not know how fast you can release your explosive power without using an objective measurement tool. Having the right tool, you will know how your performance changes. This project involves power electroncis, mechanical housing desgin, 3D printing prototyping, sensor board sourcing, android app UI desgin and android programming. The android progam involves bluetooth communication, graphic annimation, real time tracking/logging and file saving on google drive. 
+
+
 * Fajin Sensor
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cNsWo5Xyzms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
