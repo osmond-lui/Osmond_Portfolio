@@ -53,7 +53,7 @@ This app has four functions.
 
 ![](/images/4in1Tool.PNG)
 
-# [Project 3: Taijiquan Xinjia Yi Lu Audio Practice Guide ](https://play.google.com/store/apps/details?id=com.s.meditation.xinjiayilu&hl=en_GB&gl=US)
+# [Project 3: Android Coding Project - Taijiquan Xinjia Yi Lu Audio Practice Guide ](https://play.google.com/store/apps/details?id=com.s.meditation.xinjiayilu&hl=en_GB&gl=US)
 Completion date: 16 Dec 2018 
 
 Overview: This app is designed to help Tai Chi beginners (Chen-style Xinjia Yi Lu), intermediates and teachers to practice Xinjia Yi Lu.
@@ -63,7 +63,7 @@ The app works best with the Google text-to-speech app. Pls also install the Cant
 
 ![](/images/NewForm.PNG)
 
-# [Project 2: Tai Chi Audio Practice Guide: Chen-style Laojia Yi Lu 75 Forms](https://play.google.com/store/apps/details?id=com.s.meditation.laojiayilu&hl=en_GB&gl=US)
+# [Project 2: Android Coding Project - Tai Chi Audio Practice Guide: Chen-style Laojia Yi Lu 75 Forms](https://play.google.com/store/apps/details?id=com.s.meditation.laojiayilu&hl=en_GB&gl=US)
 Completion date: 28 Apr 2022
 
 Overview: The primary aim of developing this app is to help you to memorize the Laojia Yi Lu 75 Forms. The app will speak out loud the 75 postures one by one by clicking the speak button or remote shutter. Using this app you can practice the Tai Chi Form with ease at your own peace and without worrying about forgetting or missing any form. To learn Tai Chi, you need to find a good teacher, attend a Tai Chi class, learn and share with fellow students.
@@ -74,7 +74,7 @@ The app works best with the Google text-to-speech app. Pls also install the Cant
 
 ![](/images/oldForm.PNG)
 
-# [Project 1: Tai Chi Meditation Compass Clock](https://play.google.com/store/apps/details?id=com.meditation107.android.taichistandingmeditationcompass&hl=en_GB&gl=US)
+# [Project 1: Android Coding Project - Tai Chi Meditation Compass Clock](https://play.google.com/store/apps/details?id=com.meditation107.android.taichistandingmeditationcompass&hl=en_GB&gl=US)
 Completion Date: 14 Feb 2018
 
 Overview: This app uses the phone's system clock and magnetometer to point out the preferred meditation direction for your daily Tai Chi meditation practice.
