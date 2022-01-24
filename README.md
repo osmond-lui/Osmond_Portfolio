@@ -1,5 +1,5 @@
 # Osmond_Portfolio
-Android App Portfolio
+STEM Projects Portfolio
 
 # Project 7: STEM Project - DIY Automatic Toilet Flusher Retrofit Kit To keep your hands clean during COVID time
 Completion date: 24 Mar 2020
